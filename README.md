@@ -15,6 +15,7 @@ This is the second screen of the app which displays the playlist and average rat
 This is the screen which acts as a pop up for the first screen where you add a song to the playlist
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_15](https://github.com/user-attachments/assets/ead1b534-b8e4-4e87-8d44-7ed2b8ce306f)
 
+Defines variables used in the user interface
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_25](https://github.com/user-attachments/assets/213f0368-9674-4553-8640-ff141c1b197d)
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_33](https://github.com/user-attachments/assets/8d63f3c9-9290-43a3-9ef5-57cbfb458513)
