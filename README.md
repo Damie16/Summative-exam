@@ -30,6 +30,7 @@ Calculate and displays the average rating
 Declares variables used in the second screen and gives error message if users display the playlist without adding ssongs
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_54_01](https://github.com/user-attachments/assets/45dc086b-a37f-4d37-b80f-540e0d2d29e3)
 
+Displays results and ensures results are each on a separate line
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_54_09](https://github.com/user-attachments/assets/b8be60a2-de23-4fe3-9a0f-23fd506d4967)
 
 This is the app running in the emulator 
