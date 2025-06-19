@@ -18,6 +18,7 @@ This is the screen which acts as a pop up for the first screen where you add a s
 Defines variables used in the user interface
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_25](https://github.com/user-attachments/assets/213f0368-9674-4553-8640-ff141c1b197d)
 
+Asks tbe user to enter the song details
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_33](https://github.com/user-attachments/assets/8d63f3c9-9290-43a3-9ef5-57cbfb458513)
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_40](https://github.com/user-attachments/assets/2e06bca5-6306-46e2-8778-e5dd5afa2fe7)
