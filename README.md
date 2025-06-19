@@ -6,10 +6,13 @@ ST10487033
 GitHub link: https://github.com/Damie16/Summative-exam
 
 
+This is the home screen for the app which has 3 buttons, to add a song to the playlist, move to the next screen and exit the app
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_52_45](https://github.com/user-attachments/assets/281df6f4-9678-4436-9826-e66c3d072d04)
 
+This is the second screen of the app which displays the playlist and average rating 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_52_57](https://github.com/user-attachments/assets/0f8add0b-dae0-41ca-8054-7ec2940c1cec)
 
+This is the screen which acts as a pop up for the first screen where you add a song to the playlist
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_15](https://github.com/user-attachments/assets/ead1b534-b8e4-4e87-8d44-7ed2b8ce306f)
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_25](https://github.com/user-attachments/assets/213f0368-9674-4553-8640-ff141c1b197d)
