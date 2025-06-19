@@ -18,7 +18,7 @@ This is the screen which acts as a pop up for the first screen where you add a s
 Declaring variables used in the user interface
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_25](https://github.com/user-attachments/assets/213f0368-9674-4553-8640-ff141c1b197d)
 
-
+Allows user to add songs to playlist
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_33](https://github.com/user-attachments/assets/8d63f3c9-9290-43a3-9ef5-57cbfb458513)
 
 Asks the user to enter the song details
