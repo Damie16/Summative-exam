@@ -27,6 +27,7 @@ This is the screen which acts as a pop up for the first screen where you add a s
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_54_09](https://github.com/user-attachments/assets/b8be60a2-de23-4fe3-9a0f-23fd506d4967)
 
+This is the app running in the emulator 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_58_04](https://github.com/user-attachments/assets/e380b11a-5415-4a60-b1ce-3dbe02006bda)
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_59_28](https://github.com/user-attachments/assets/abef2ed0-6dec-4b4f-b0fd-e0d5cffa103d)
