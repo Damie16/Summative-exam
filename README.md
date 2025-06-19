@@ -21,12 +21,13 @@ Defines variables used in the user interface
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_33](https://github.com/user-attachments/assets/8d63f3c9-9290-43a3-9ef5-57cbfb458513)
 
-Asks tbe user to enter the song details
+Asks the user to enter the song details
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_40](https://github.com/user-attachments/assets/2e06bca5-6306-46e2-8778-e5dd5afa2fe7)
 
 Calculate and displays the average rating
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_53_48](https://github.com/user-attachments/assets/a576c43b-b603-4234-bb40-77b70e6f8d7e)
 
+Declares variables used in the second screen and gives error message if users display the playlist without adding ssongs
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_54_01](https://github.com/user-attachments/assets/45dc086b-a37f-4d37-b80f-540e0d2d29e3)
 
 ![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_06_19 11_54_09](https://github.com/user-attachments/assets/b8be60a2-de23-4fe3-9a0f-23fd506d4967)
