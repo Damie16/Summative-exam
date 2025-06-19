@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMAD exam</string>
+
+    <string name="hint_song_title">Song Title</string>
+    <string name="hint_artist_name">Artist Name</string>
+    <string name="hint_rating">Rating (1-5)</string>
+    <string name="hint_comments">Comments (Optional)</string>
+</resources>
